@@ -1,4 +1,4 @@
-### Глава 5: "Модель DOM"
+### Глава 6: "Модель DOM"
 
 - HTML, JavaScript и DOM
 - document
